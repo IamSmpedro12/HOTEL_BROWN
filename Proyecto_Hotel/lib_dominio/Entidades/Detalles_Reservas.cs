@@ -4,12 +4,12 @@ namespace lib_dominio.Entidades
 {
     public class Detalles_Reservas
     {
-        public int id_detalle { get; set; }
-        public int id_reserva { get; set; }
-        public int id_habitacion { get; set; }
-        public decimal precio_noche { get; set; }
-        public int noches { get; set; }
-        [ForeignKey("id_reserva")] public Reservas? _id_reserva { get; set; }
-        [ForeignKey("id_habitacion")] public Habitaciones? _id_habitacion { get; set; }
+        public int Id { get; set; }
+        public int Reserva { get; set; }
+        public int Habitacion { get; set; }
+        public decimal Precio_noche { get; set; }
+        public int Noches { get; set; }
+        [ForeignKey("Reserva")] public Reservas? _Reserva { get; set; }
+        [ForeignKey("Habitacion")] public Habitaciones? _Habitacion { get; set; }
     }
 }

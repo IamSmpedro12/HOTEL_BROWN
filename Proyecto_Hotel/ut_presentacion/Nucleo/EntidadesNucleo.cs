@@ -7,193 +7,164 @@ namespace ut_presentacion.Nucleo
         public static Huespedes? Huespedes()
         {
             var entidad = new Huespedes();
-            entidad.id_huesped = 1;
-            entidad.nombre = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
-            entidad.apellido = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
-            entidad.email = "prueba@hotel.com";
-            entidad.telefono = "3001234567";
-            entidad.documento = "123456789";
-            entidad.nacionalidad = "Colombia";
-            entidad.fecha_nacimiento = new DateTime(1990, 1, 1);
-
+            entidad.Nombre = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
+            entidad.Apellido = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
+            entidad.Email = "prueba@hotel.com";
+            entidad.Telefono = "3001234567";
+            entidad.Documento = "123456789";
+            entidad.Nacionalidad = "Colombia";
+            entidad.Fecha_nacimiento = new DateTime(1990, 1, 1);
             return entidad;
         }
-
         public static Empleados? Empleados()
         {
             var entidad = new Empleados();
-            entidad.id_empleado = 1;
-            entidad.nombre = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
-            entidad.apellido = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
-            entidad.email = "empleado@hotel.com";
-            entidad.telefono = "3007654321";
-            entidad.cargo = "Gerente";
-            entidad.fecha_ingreso = new DateTime(2020, 5, 15);
-
+            entidad.Nombre = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
+            entidad.Apellido = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
+            entidad.Email = "empleado@hotel.com";
+            entidad.Telefono = "3007654321";
+            entidad.Cargo = "Gerente";
+            entidad.Fecha_ingreso = new DateTime(2020, 5, 15);
             return entidad;
         }
 
         public static Roles? Roles()
         {
             var entidad = new Roles();
-            entidad.id_rol = 1;
-            entidad.nombre = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
-            entidad.descripcion = "Rol de prueba";
-
+            entidad.Nombre = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
+            entidad.Descripcion = "Rol de prueba";
             return entidad;
         }
 
         public static Empleados_Roles? Empleados_Roles()
         {
             var entidad = new Empleados_Roles();
-            entidad.id = 1;
-            entidad.id_empleado = 1;
-            entidad.id_rol = 1;
-
+            // Los Id de la tabla se generarán automáticamente por la base de datos
+            // Los Id de las claves foráneas no son Identity, por lo que podemos asignarlos.
+            // Es buena práctica usar un contador para la prueba, pero aquí se usarán valores fijos por simplicidad.
+            entidad.Empleado = 1;
+            entidad.Rol = 1;
             return entidad;
         }
 
         public static Habitaciones? Habitaciones()
         {
             var entidad = new Habitaciones();
-            entidad.id_habitacion = 1;
-            entidad.numero = "101";
-            entidad.piso = 1;
-            entidad.tipo = "Doble";
-            entidad.capacidad = 2;
-            entidad.precio_noche = 150.50m;
-            entidad.estado = "Disponible";
-
+            entidad.Numero = "101";
+            entidad.Piso = 1;
+            entidad.Tipo = "Doble";
+            entidad.Capacidad = 2;
+            entidad.Precio_noche = 150.50m;
+            entidad.Estado = "Disponible";
             return entidad;
         }
 
         public static Tipos_Habitaciones? Tipos_Habitaciones()
         {
             var entidad = new Tipos_Habitaciones();
-            entidad.id_tipo = 1;
-            entidad.nombre = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
-            entidad.descripcion = "Tipo de habitación de prueba";
-            entidad.precio_base = 100.00m;
-
+            entidad.Nombre = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
+            entidad.Descripcion = "Tipo de habitación de prueba";
+            entidad.Precio_base = 100.00m;
             return entidad;
         }
 
         public static Habitaciones_Tipos? Habitaciones_Tipos()
         {
             var entidad = new Habitaciones_Tipos();
-            entidad.id = 1;
-            entidad.id_habitacion = 1;
-            entidad.id_tipo = 1;
-
+            entidad.Habitacion = 1;
+            entidad.Tipo = 1;
             return entidad;
         }
 
         public static Reservas? Reservas()
         {
             var entidad = new Reservas();
-            entidad.id_reserva = 1;
-            entidad.id_huesped = 1;
-            entidad.fecha_entrada = new DateTime(2025, 10, 20);
-            entidad.fecha_salida = new DateTime(2025, 10, 25);
-            entidad.estado = "Confirmada";
-            entidad.fecha_reserva = DateTime.Now;
-
+            entidad.Huesped = 1;
+            entidad.Fecha_entrada = new DateTime(2025, 10, 20);
+            entidad.Fecha_salida = new DateTime(2025, 10, 25);
+            entidad.Estado = "Confirmada";
+            entidad.Fecha_reserva = DateTime.Now;
             return entidad;
         }
 
         public static Detalles_Reservas? Detalles_Reservas()
         {
             var entidad = new Detalles_Reservas();
-            entidad.id_detalle = 1;
-            entidad.id_reserva = 1;
-            entidad.id_habitacion = 1;
-            entidad.precio_noche = 150.50m;
-            entidad.noches = 5;
-
+            entidad.Reserva = 1;
+            entidad.Habitacion = 1;
+            entidad.Precio_noche = 150.50m;
+            entidad.Noches = 5;
             return entidad;
         }
 
         public static Servicios? Servicios()
         {
             var entidad = new Servicios();
-            entidad.id_servicio = 1;
-            entidad.nombre = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
-            entidad.descripcion = "Servicio de prueba";
-            entidad.precio = 25.00m;
-
+            entidad.Nombre = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
+            entidad.Descripcion = "Servicio de prueba";
+            entidad.Precio = 25.00m;
             return entidad;
         }
 
         public static Reservas_Servicios? Reservas_Servicios()
         {
             var entidad = new Reservas_Servicios();
-            entidad.id = 1;
-            entidad.id_reserva = 1;
-            entidad.id_servicio = 1;
-            entidad.cantidad = 2;
-
+            entidad.Reserva = 1;
+            entidad.Servicio = 1;
+            entidad.Cantidad = 2;
             return entidad;
         }
 
         public static Facturas? Facturas()
         {
             var entidad = new Facturas();
-            entidad.id_factura = 1;
-            entidad.id_reserva = 1;
-            entidad.fecha_emision = DateTime.Now;
-            entidad.total = 802.50m;
-            entidad.metodo_pago = "Tarjeta de crédito";
-
+            entidad.Reserva = 1;
+            entidad.Fecha_emision = DateTime.Now;
+            entidad.Total = 802.50m;
+            entidad.Metodo_pago = "Tarjeta de crédito";
             return entidad;
         }
 
         public static Mantenimientos? Mantenimientos()
         {
             var entidad = new Mantenimientos();
-            entidad.id_mantenimiento = 1;
-            entidad.id_habitacion = 1;
-            entidad.descripcion = "Mantenimiento de prueba";
-            entidad.fecha = DateTime.Now;
-            entidad.costo = 50.00m;
-
+            entidad.Habitacion = 1;
+            entidad.Descripcion = "Mantenimiento de prueba";
+            entidad.Fecha = DateTime.Now;
+            entidad.Costo = 50.00m;
             return entidad;
         }
 
         public static Proveedores? Proveedores()
         {
             var entidad = new Proveedores();
-            entidad.id_proveedor = 1;
-            entidad.nombre = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
-            entidad.contacto = "Contacto de prueba";
-            entidad.telefono = "3009876543";
-            entidad.email = "proveedor@ejemplo.com";
-
+            entidad.Nombre = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
+            entidad.Contacto = "Contacto de prueba";
+            entidad.Telefono = "3009876543";
+            entidad.Email = "proveedor@ejemplo.com";
             return entidad;
         }
 
         public static Productos? Productos()
         {
             var entidad = new Productos();
-            entidad.id_producto = 1;
-            entidad.nombre = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
-            entidad.descripcion = "Producto de prueba";
-            entidad.stock = 50;
-            entidad.precio = 5.50m;
-            entidad.id_proveedor = 1;
-
+            entidad.Nombre = "Pruebas-" + DateTime.Now.ToString("yyyyMMddhhmmss");
+            entidad.Descripcion = "Producto de prueba";
+            entidad.Stock = 50;
+            entidad.Precio = 5.50m;
+            entidad.Proveedor = 1;
             return entidad;
         }
 
         public static Consumos? Consumos()
         {
             var entidad = new Consumos();
-            entidad.id_consumo = 1;
-            entidad.id_producto = 1;
-            entidad.id_reserva = 1;
-            entidad.cantidad = 3;
-            entidad.fecha = DateTime.Now;
-
+            entidad.Cantidad = 3;
+            entidad.Fecha = DateTime.Now;
+            entidad.Producto = 1;
+            entidad.Reserva = 1;
             return entidad;
         }
     }
 }
+

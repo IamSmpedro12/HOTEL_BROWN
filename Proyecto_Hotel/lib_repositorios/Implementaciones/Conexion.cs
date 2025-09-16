@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace lib_repositorios.Implementaciones
 {
-    public partial class Conexion : DbContext, IConexion
+    public class Conexion : DbContext, IConexion
     {
         public string? StringConexion { get; set; }
 

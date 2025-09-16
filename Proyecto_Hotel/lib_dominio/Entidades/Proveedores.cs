@@ -2,10 +2,10 @@
 {
     public class Proveedores
     {
-        public int id_proveedor { get; set; }
-        public string? nombre { get; set; }
-        public string? contacto { get; set; }
-        public string? telefono { get; set; }
-        public string? email { get; set; }
+        public int Id { get; set; }
+        public string? Nombre { get; set; }
+        public string? Contacto { get; set; }
+        public string? Telefono { get; set; }
+        public string? Email { get; set; }
     }
 }

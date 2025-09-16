@@ -1,16 +1,15 @@
-﻿namespace lib_dominio.Entidades
-{
-    using System;
-    using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
+namespace lib_dominio.Entidades
+{
     public class Reservas
     {
-        public int id_reserva { get; set; }
-        public int id_huesped { get; set; }
-        public DateTime fecha_entrada { get; set; }
-        public DateTime fecha_salida { get; set; }
-        public string? estado { get; set; }
-        public DateTime fecha_reserva { get; set; }
-        [ForeignKey("id_huesped")] public Huespedes? _id_huesped { get; set; }
+        public int Id { get; set; }
+        public int Huesped { get; set; }
+        public DateTime Fecha_entrada { get; set; }
+        public DateTime Fecha_salida { get; set; }
+        public string? Estado { get; set; }
+        public DateTime Fecha_reserva { get; set; }
+        [ForeignKey("Huesped")] public Huespedes? _Huesped { get; set; }
     }
 }

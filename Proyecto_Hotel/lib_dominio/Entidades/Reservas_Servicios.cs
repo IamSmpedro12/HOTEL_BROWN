@@ -4,12 +4,12 @@ namespace lib_dominio.Entidades
 {
     public class Reservas_Servicios
     {
-        public int id { get; set; }
-        public int id_reserva { get; set; }
-        public int id_servicio { get; set; }
-        public int cantidad { get; set; }
-        [ForeignKey("id_reserva")] public Reservas? _id_reserva { get; set; }
-        [ForeignKey("id_servicio")] public Servicios? _id_servicio { get; set; }
+        public int Id { get; set; }
+        public int Reserva { get; set; }
+        public int Servicio { get; set; }
+        public int Cantidad { get; set; }
+        [ForeignKey("Reserva")] public Reservas? _Reserva { get; set; }
+        [ForeignKey("Servicio")] public Servicios? _Servicio { get; set; }
 
     }
 }

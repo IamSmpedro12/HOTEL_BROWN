@@ -4,11 +4,11 @@ namespace lib_dominio.Entidades
 {
     public class Facturas
     {
-        public int id_factura { get; set; }
-        public int id_reserva { get; set; }
-        public DateTime fecha_emision { get; set; }
-        public decimal total { get; set; }
-        public string? metodo_pago { get; set; }
-        [ForeignKey("id_reserva")] public Reservas? _id_reserva { get; set; }
+        public int Id { get; set; }
+        public int Reserva { get; set; }
+        public DateTime Fecha_emision { get; set; }
+        public decimal Total { get; set; }
+        public string? Metodo_pago { get; set; }
+        [ForeignKey("Reserva")] public Reservas? _Reserva { get; set; }
     }
 }

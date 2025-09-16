@@ -4,10 +4,10 @@ namespace lib_dominio.Entidades
 {
     public class Empleados_Roles
     {
-        public int id { get; set; }
-        public int id_empleado { get; set; }
-        public int id_rol { get; set; }
-        [ForeignKey("id_empleado")] public Empleados? _id_empleado { get; set; }
-        [ForeignKey("id_rol")] public Roles? _id_rol { get; set; }
+        public int Id { get; set; }
+        public int Empleado { get; set; }
+        public int Rol { get; set; }
+        [ForeignKey("Empleado")] public Empleados? _Empleado { get; set; }
+        [ForeignKey("Rol")] public Roles? _Rol { get; set; }
     }
 }
