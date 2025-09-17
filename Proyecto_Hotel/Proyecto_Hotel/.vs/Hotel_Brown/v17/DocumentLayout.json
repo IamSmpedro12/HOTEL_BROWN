@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salak401\\Desktop\\Proyecto_Hotel\\Proyecto_Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\salak401\\desktop\\proyecto_hotel\\proyecto_hotel\\ut_presentacion\\repositorios\\huespedesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\huespedesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HuespedesPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\Proyecto_Hotel\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\HuespedesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\HuespedesPrueba.cs",
+              "ToolTip": "C:\\Users\\salak401\\Desktop\\Proyecto_Hotel\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\HuespedesPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios\\HuespedesPrueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:12:00.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
