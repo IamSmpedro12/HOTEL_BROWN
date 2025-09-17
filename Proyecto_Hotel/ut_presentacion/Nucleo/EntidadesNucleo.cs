@@ -39,9 +39,6 @@ namespace ut_presentacion.Nucleo
         public static Empleados_Roles? Empleados_Roles()
         {
             var entidad = new Empleados_Roles();
-            // Los Id de la tabla se generarán automáticamente por la base de datos
-            // Los Id de las claves foráneas no son Identity, por lo que podemos asignarlos.
-            // Es buena práctica usar un contador para la prueba, pero aquí se usarán valores fijos por simplicidad.
             entidad.Empleado = 1;
             entidad.Rol = 1;
             return entidad;
