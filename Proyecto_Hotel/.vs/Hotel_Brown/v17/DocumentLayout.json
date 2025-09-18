@@ -1,12 +1,384 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\salak401\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\itipos_habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\itipos_habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\iservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\iroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_dominio\\entidades\\habitaciones_tipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\habitaciones_tipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_dominio\\entidades\\tipos_habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\tipos_habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\ireservas_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\ireservas_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\ireservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\ireservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\iproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\iproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\imantenimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\imantenimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\iempleados_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iempleados_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\iempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\iconsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iconsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\ihuespedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\ihuespedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\ihabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\ihabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\ihabitaciones_tipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\ihabitaciones_tipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\ifacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\ifacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\idetalles_reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\idetalles_reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\source\\repos\\hotel_brown\\proyecto_hotel\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITipos_Habitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\ITipos_Habitaciones.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\ITipos_Habitaciones.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\ITipos_Habitaciones.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\ITipos_Habitaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:23:08.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IServicios.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IServicios.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IServicios.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IServicios.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IServicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:22:27.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IRoles.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IRoles.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IRoles.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IRoles.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:21:52.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Habitaciones_Tipos.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Habitaciones_Tipos.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Habitaciones_Tipos.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Habitaciones_Tipos.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Habitaciones_Tipos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:21:19.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tipos_Habitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Tipos_Habitaciones.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Tipos_Habitaciones.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Tipos_Habitaciones.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Tipos_Habitaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:21:15.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReservas_Servicios.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IReservas_Servicios.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IReservas_Servicios.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IReservas_Servicios.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IReservas_Servicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:20:44.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReservas.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IReservas.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IReservas.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IReservas.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IReservas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:20:06.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IProveedores.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IProveedores.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IProveedores.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IProveedores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:19:20.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IProductos.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IProductos.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IProductos.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IProductos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:18:42.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMantenimientos.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IMantenimientos.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IMantenimientos.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IMantenimientos.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IMantenimientos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:17:59.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IHuespedes.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IHuespedes.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IHuespedes.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IHuespedes.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IHuespedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:11:07.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IHabitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IHabitaciones.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IHabitaciones.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IHabitaciones.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IHabitaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:10:31.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IHabitaciones_Tipos.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IHabitaciones_Tipos.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IHabitaciones_Tipos.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IHabitaciones_Tipos.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IHabitaciones_Tipos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:09:36.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IFacturas.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IFacturas.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IFacturas.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IFacturas.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IFacturas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:08:58.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmpleados_Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IEmpleados_Roles.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IEmpleados_Roles.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IEmpleados_Roles.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IEmpleados_Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:08:23.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IEmpleados.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IEmpleados.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IEmpleados.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IEmpleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:07:43.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IConsumos.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IConsumos.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IConsumos.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IConsumos.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IConsumos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:05:02.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDetalles_Reservas.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IDetalles_Reservas.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IDetalles_Reservas.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\Source\\Repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IDetalles_Reservas.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IDetalles_Reservas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:06:56.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\secrets.json",
+              "RelativeDocumentMoniker": "secrets.json",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\secrets.json",
+              "RelativeToolTip": "secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-17T22:53:49.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Script.sql ",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Script.sql",
+              "RelativeDocumentMoniker": "lib_repositorios\\Script.sql",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Script.sql",
+              "RelativeToolTip": "lib_repositorios\\Script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-17T22:53:35.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DatosGenerales.cs",
+              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ToolTip": "C:\\Users\\Isabella Cartagena\\source\\repos\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:46:38.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
