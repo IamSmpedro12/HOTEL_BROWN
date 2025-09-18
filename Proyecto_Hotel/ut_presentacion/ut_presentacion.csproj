@@ -13,12 +13,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
+    <ProjectReference Include="..\lib_dominio\lib_dominio.csproj" />
+    <ProjectReference Include="..\lib_repositorios\lib_repositorios.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\lib_dominio\lib_dominio.csproj" />
-    <ProjectReference Include="..\lib_repositorios\lib_repositorios.csproj" />
+    <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
   </ItemGroup>
 
 </Project>

@@ -1,45 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\",
+  "WorkspaceRootPath": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\isabella cartagena\\onedrive - instituto tecnologico metropolitano - itm\\escritorio\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios\\proveedoresprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\proveedoresprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\habitacionestiposaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\habitacionestiposaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\isabella cartagena\\onedrive - instituto tecnologico metropolitano - itm\\escritorio\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios\\habitaciones_tiposprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\habitaciones_tiposprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\tiposhabitacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\tiposhabitacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\onedrive - instituto tecnologico metropolitano - itm\\escritorio\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\empleadosrolesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\empleadosrolesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\onedrive - instituto tecnologico metropolitano - itm\\escritorio\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\isabella cartagena\\onedrive - instituto tecnologico metropolitano - itm\\escritorio\\hotel_brown\\proyecto_hotel\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\isabella cartagena\\onedrive - instituto tecnologico metropolitano - itm\\escritorio\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios\\detalles_reservasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\detalles_reservasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\isabella cartagena\\onedrive - instituto tecnologico metropolitano - itm\\escritorio\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios\\habitacionesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\habitacionesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\isabella cartagena\\onedrive - instituto tecnologico metropolitano - itm\\escritorio\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios\\empleados_rolesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\empleados_rolesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\isabella cartagena\\onedrive - instituto tecnologico metropolitano - itm\\escritorio\\hotel_brown\\proyecto_hotel\\lib_dominio\\nucleo\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios\\proveedoresprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\proveedoresprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios\\habitaciones_tiposprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\habitaciones_tiposprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios\\detalles_reservasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\detalles_reservasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios\\habitacionesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\habitacionesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios\\empleados_rolesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\empleados_rolesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\nucleo\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,81 +66,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Habitaciones_TiposPrueba.cs",
-              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Habitaciones_TiposPrueba.cs",
-              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\Habitaciones_TiposPrueba.cs",
-              "ToolTip": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Habitaciones_TiposPrueba.cs*",
-              "RelativeToolTip": "ut_presentacion\\Repositorios\\Habitaciones_TiposPrueba.cs*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDAAAAAiAAAAAAAAAA==",
+              "Title": "TiposHabitacionesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\TiposHabitacionesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\TiposHabitacionesAplicacion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\TiposHabitacionesAplicacion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\TiposHabitacionesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T03:34:03.979Z",
+              "WhenOpened": "2025-09-18T03:56:50.002Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HabitacionesTiposAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\HabitacionesTiposAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\HabitacionesTiposAplicacion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\HabitacionesTiposAplicacion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\HabitacionesTiposAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T03:56:25.171Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\Conexion.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\Conexion.cs",
-              "ToolTip": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\Conexion.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EmpleadosRolesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\EmpleadosRolesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\EmpleadosRolesAplicacion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\EmpleadosRolesAplicacion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\EmpleadosRolesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T23:02:14.4Z",
+              "WhenOpened": "2025-09-18T03:56:08.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IConexion.cs",
-              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IConexion.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IConexion.cs",
-              "ToolTip": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IConexion.cs",
-              "RelativeToolTip": "lib_repositorios\\Interfaces\\IConexion.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "DatosGenerales.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T01:08:38.591Z"
+              "WhenOpened": "2025-09-18T03:38:48.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "Habitaciones_TiposPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Habitaciones_TiposPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\Habitaciones_TiposPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Habitaciones_TiposPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios\\Habitaciones_TiposPrueba.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T03:34:03.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\Conexion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\Conexion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\Conexion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T23:02:14.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Script.sql",
-              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Script.sql",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Script.sql",
               "RelativeDocumentMoniker": "lib_repositorios\\Script.sql",
-              "ToolTip": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Script.sql",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Script.sql",
               "RelativeToolTip": "lib_repositorios\\Script.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-09-18T00:51:06.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ProveedoresPrueba.cs",
-              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\ProveedoresPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\ProveedoresPrueba.cs",
               "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\ProveedoresPrueba.cs",
-              "ToolTip": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\ProveedoresPrueba.cs*",
-              "RelativeToolTip": "ut_presentacion\\Repositorios\\ProveedoresPrueba.cs*",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\ProveedoresPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios\\ProveedoresPrueba.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAkwDYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T22:57:07.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T22:57:07.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "HabitacionesPrueba.cs",
-              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\HabitacionesPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\HabitacionesPrueba.cs",
               "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\HabitacionesPrueba.cs",
-              "ToolTip": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\HabitacionesPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\HabitacionesPrueba.cs",
               "RelativeToolTip": "ut_presentacion\\Repositorios\\HabitacionesPrueba.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,11 +181,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\secrets.json",
+              "RelativeDocumentMoniker": "secrets.json",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\secrets.json",
+              "RelativeToolTip": "secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-17T22:45:06.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IConexion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IConexion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IConexion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IConexion.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IConexion.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T01:08:38.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Empleados_RolesPrueba.cs",
-              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Empleados_RolesPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Empleados_RolesPrueba.cs",
               "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\Empleados_RolesPrueba.cs",
-              "ToolTip": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Empleados_RolesPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Empleados_RolesPrueba.cs",
               "RelativeToolTip": "ut_presentacion\\Repositorios\\Empleados_RolesPrueba.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,11 +218,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Detalles_ReservasPrueba.cs",
-              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Detalles_ReservasPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Detalles_ReservasPrueba.cs",
               "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\Detalles_ReservasPrueba.cs",
-              "ToolTip": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Detalles_ReservasPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Detalles_ReservasPrueba.cs",
               "RelativeToolTip": "ut_presentacion\\Repositorios\\Detalles_ReservasPrueba.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,27 +230,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "LogConversor.cs",
-              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Nucleo\\LogConversor.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Nucleo\\LogConversor.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\LogConversor.cs",
-              "ToolTip": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Nucleo\\LogConversor.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Nucleo\\LogConversor.cs",
               "RelativeToolTip": "lib_dominio\\Nucleo\\LogConversor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T22:47:18.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\secrets.json",
-              "RelativeDocumentMoniker": "secrets.json",
-              "ToolTip": "C:\\Users\\Isabella Cartagena\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Escritorio\\HOTEL_BROWN\\Proyecto_Hotel\\secrets.json",
-              "RelativeToolTip": "secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-17T22:45:06.511Z"
             }
           ]
         }
