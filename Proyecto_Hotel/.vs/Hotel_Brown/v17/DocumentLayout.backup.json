@@ -3,60 +3,180 @@
   "WorkspaceRootPath": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\habitacionestiposaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\habitacionestiposaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios2\\facturasaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios2\\facturasaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\tiposhabitacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\tiposhabitacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\entidades\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\facturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\facturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\entidades\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios2\\empleadosrolesaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios2\\empleadosrolesaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\entidades\\empleados_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\empleados_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\empleadosrolesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\empleadosrolesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios2\\rolesaplicacionpruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios2\\rolesaplicacionpruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\entidades\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\rolesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\rolesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\reservasserviciosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\reservasserviciosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios2\\tiposhabitacionesaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios2\\tiposhabitacionesaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\entidades\\tipos_habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\tipos_habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\tiposhabitacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\tiposhabitacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios2\\serviciosaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios2\\serviciosaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios2\\reservasserviciosaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios2\\reservasserviciosaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\serviciosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\serviciosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\entidades\\reservas_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\reservas_servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\entidades\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios2\\reservasaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios2\\reservasaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios2\\proveedoresaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios2\\proveedoresaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\entidades\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\reservasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\reservasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\entidades\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\proveedoresaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\proveedoresaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios2\\productosaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios2\\productosaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\productosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\productosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios2\\mantenimientosaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios2\\mantenimientosaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\entidades\\mantenimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\mantenimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios2\\huespedesaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios2\\huespedesaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios2\\habitacionestiposprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios2\\habitacionestiposprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\entidades\\huespedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\huespedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\huespedesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\huespedesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios2\\detallesreservasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios2\\detallesreservasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\entidades\\habitaciones_tipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\habitaciones_tipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\habitacionestiposaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\habitacionestiposaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios2\\habitacionesaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios2\\habitacionesaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\entidades\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\habitacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\habitacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios2\\empleadosaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios2\\empleadosaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios\\proveedoresprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\proveedoresprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\empleadosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\empleadosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios\\habitaciones_tiposprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\habitaciones_tiposprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios2\\consumosaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios2\\consumosaplicacionprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios\\detalles_reservasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\detalles_reservasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios\\habitacionesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\habitacionesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\repositorios\\empleados_rolesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\empleados_rolesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_dominio\\nucleo\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CA00005-AC31-4AF7-A265-05F4F440323A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\smped\\onedrive\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,179 +186,565 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TiposHabitacionesAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\TiposHabitacionesAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\TiposHabitacionesAplicacion.cs",
-              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\TiposHabitacionesAplicacion.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\TiposHabitacionesAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T03:56:50.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HabitacionesTiposAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\HabitacionesTiposAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\HabitacionesTiposAplicacion.cs",
-              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\HabitacionesTiposAplicacion.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\HabitacionesTiposAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Title": "FacturasAplicacionPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\FacturasAplicacionPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios2\\FacturasAplicacionPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\FacturasAplicacionPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios2\\FacturasAplicacionPrueba.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T03:56:25.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmpleadosRolesAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\EmpleadosRolesAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\EmpleadosRolesAplicacion.cs",
-              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\EmpleadosRolesAplicacion.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\EmpleadosRolesAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T03:56:08.919Z",
+              "WhenOpened": "2025-09-18T06:06:19.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DatosGenerales.cs",
-              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABdAAAAAAAAAA==",
+              "Title": "EmpleadosRolesAplicacionPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\EmpleadosRolesAplicacionPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios2\\EmpleadosRolesAplicacionPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\EmpleadosRolesAplicacionPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios2\\EmpleadosRolesAplicacionPrueba.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T03:38:48.877Z",
+              "WhenOpened": "2025-09-18T06:03:12.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Habitaciones_TiposPrueba.cs",
-              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Habitaciones_TiposPrueba.cs",
-              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\Habitaciones_TiposPrueba.cs",
-              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Habitaciones_TiposPrueba.cs",
-              "RelativeToolTip": "ut_presentacion\\Repositorios\\Habitaciones_TiposPrueba.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDAAAAAiAAAAAAAAAA==",
+              "Title": "RolesAplicacionPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\RolesAplicacionPruebas.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios2\\RolesAplicacionPruebas.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\RolesAplicacionPruebas.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios2\\RolesAplicacionPruebas.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T03:34:03.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\Conexion.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\Conexion.cs",
-              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\Conexion.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T23:02:14.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Script.sql",
-              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Script.sql",
-              "RelativeDocumentMoniker": "lib_repositorios\\Script.sql",
-              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Script.sql",
-              "RelativeToolTip": "lib_repositorios\\Script.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-09-18T00:51:06.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProveedoresPrueba.cs",
-              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\ProveedoresPrueba.cs",
-              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\ProveedoresPrueba.cs",
-              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\ProveedoresPrueba.cs",
-              "RelativeToolTip": "ut_presentacion\\Repositorios\\ProveedoresPrueba.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwDYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T22:57:07.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HabitacionesPrueba.cs",
-              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\HabitacionesPrueba.cs",
-              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\HabitacionesPrueba.cs",
-              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\HabitacionesPrueba.cs",
-              "RelativeToolTip": "ut_presentacion\\Repositorios\\HabitacionesPrueba.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T22:55:49.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\secrets.json",
-              "RelativeDocumentMoniker": "secrets.json",
-              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\secrets.json",
-              "RelativeToolTip": "secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-17T22:45:06.511Z",
+              "WhenOpened": "2025-09-18T06:01:07.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "IConexion.cs",
-              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IConexion.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IConexion.cs",
-              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Interfaces\\IConexion.cs",
-              "RelativeToolTip": "lib_repositorios\\Interfaces\\IConexion.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAAvAAAAAAAAAA==",
+              "Title": "RolesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\RolesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\RolesAplicacion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\RolesAplicacion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\RolesAplicacion.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T01:08:38.591Z"
+              "WhenOpened": "2025-09-18T05:47:44.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Roles.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Roles.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Roles.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:48:26.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpleadosRolesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\EmpleadosRolesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\EmpleadosRolesAplicacion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\EmpleadosRolesAplicacion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\EmpleadosRolesAplicacion.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:06:19.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\FacturasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\FacturasAplicacion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\FacturasAplicacion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\FacturasAplicacion.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:06:43.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Facturas.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Facturas.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Facturas.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Facturas.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Facturas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:12:51.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TiposHabitacionesAplicacionPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\TiposHabitacionesAplicacionPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios2\\TiposHabitacionesAplicacionPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\TiposHabitacionesAplicacionPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios2\\TiposHabitacionesAplicacionPrueba.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:52:35.713Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Empleados_RolesPrueba.cs",
-              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Empleados_RolesPrueba.cs",
-              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\Empleados_RolesPrueba.cs",
-              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Empleados_RolesPrueba.cs",
-              "RelativeToolTip": "ut_presentacion\\Repositorios\\Empleados_RolesPrueba.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Tipos_Habitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Tipos_Habitaciones.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Tipos_Habitaciones.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Tipos_Habitaciones.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Tipos_Habitaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T22:55:44.16Z"
+              "WhenOpened": "2025-09-18T05:59:41.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Detalles_ReservasPrueba.cs",
-              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Detalles_ReservasPrueba.cs",
-              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\Detalles_ReservasPrueba.cs",
-              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios\\Detalles_ReservasPrueba.cs",
-              "RelativeToolTip": "ut_presentacion\\Repositorios\\Detalles_ReservasPrueba.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Empleados_Roles.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Empleados_Roles.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Empleados_Roles.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Empleados_Roles.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Empleados_Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T22:55:32.701Z"
+              "WhenOpened": "2025-09-18T04:56:20.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Productos.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Productos.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Productos.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:34:40.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "LogConversor.cs",
-              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Nucleo\\LogConversor.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\LogConversor.cs",
-              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Nucleo\\LogConversor.cs",
-              "RelativeToolTip": "lib_dominio\\Nucleo\\LogConversor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TiposHabitacionesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\TiposHabitacionesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\TiposHabitacionesAplicacion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\TiposHabitacionesAplicacion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\TiposHabitacionesAplicacion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T22:47:18.948Z"
+              "WhenOpened": "2025-09-18T05:59:10.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiciosAplicacionPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\ServiciosAplicacionPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios2\\ServiciosAplicacionPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\ServiciosAplicacionPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios2\\ServiciosAplicacionPrueba.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:48:06.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiciosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\ServiciosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\ServiciosAplicacion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\ServiciosAplicacion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\ServiciosAplicacion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:55:24.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Reservas_Servicios.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Reservas_Servicios.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Reservas_Servicios.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Reservas_Servicios.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Reservas_Servicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:45:20.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReservasServiciosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\ReservasServiciosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\ReservasServiciosAplicacion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\ReservasServiciosAplicacion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\ReservasServiciosAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:40:42.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Servicios.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Servicios.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Servicios.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Servicios.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Servicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:50:50.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReservasServiciosAplicacionPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\ReservasServiciosAplicacionPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios2\\ReservasServiciosAplicacionPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\ReservasServiciosAplicacionPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios2\\ReservasServiciosAplicacionPrueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:41:14.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Reservas.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Reservas.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Reservas.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Reservas.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Reservas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:39:03.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReservasAplicacionPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\ReservasAplicacionPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios2\\ReservasAplicacionPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\ReservasAplicacionPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios2\\ReservasAplicacionPrueba.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:38:46.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReservasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\ReservasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\ReservasAplicacion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\ReservasAplicacion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\ReservasAplicacion.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:38:29.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Proveedores.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Proveedores.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Proveedores.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Proveedores.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Proveedores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:37:03.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProveedoresAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\ProveedoresAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\ProveedoresAplicacion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\ProveedoresAplicacion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\ProveedoresAplicacion.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:36:27.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProveedoresAplicacionPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\ProveedoresAplicacionPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios2\\ProveedoresAplicacionPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\ProveedoresAplicacionPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios2\\ProveedoresAplicacionPrueba.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:36:41.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductosAplicacionPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\ProductosAplicacionPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios2\\ProductosAplicacionPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\ProductosAplicacionPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios2\\ProductosAplicacionPrueba.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:33:35.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\ProductosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\ProductosAplicacion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\ProductosAplicacion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\ProductosAplicacion.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:33:20.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Mantenimientos.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Mantenimientos.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Mantenimientos.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Mantenimientos.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Mantenimientos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:31:25.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MantenimientosAplicacionPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\MantenimientosAplicacionPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios2\\MantenimientosAplicacionPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\MantenimientosAplicacionPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios2\\MantenimientosAplicacionPrueba.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:30:49.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Huespedes.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Huespedes.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Huespedes.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Huespedes.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Huespedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:29:11.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HuespedesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\HuespedesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\HuespedesAplicacion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\HuespedesAplicacion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\HuespedesAplicacion.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:28:45.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HuespedesAplicacionPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\HuespedesAplicacionPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios2\\HuespedesAplicacionPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\HuespedesAplicacionPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios2\\HuespedesAplicacionPrueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:28:41.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Habitaciones_Tipos.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Habitaciones_Tipos.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Habitaciones_Tipos.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Habitaciones_Tipos.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Habitaciones_Tipos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:25:07.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HabitacionesTiposAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\HabitacionesTiposAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\HabitacionesTiposAplicacion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\HabitacionesTiposAplicacion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\HabitacionesTiposAplicacion.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:24:43.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HabitacionesTiposPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\HabitacionesTiposPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios2\\HabitacionesTiposPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\HabitacionesTiposPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios2\\HabitacionesTiposPrueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:24:36.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DetallesReservasPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\DetallesReservasPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios2\\DetallesReservasPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\DetallesReservasPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios2\\DetallesReservasPrueba.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:23:02.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Habitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Habitaciones.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Habitaciones.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\Entidades\\Habitaciones.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Habitaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:20:01.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HabitacionesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\HabitacionesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\HabitacionesAplicacion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\HabitacionesAplicacion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\HabitacionesAplicacion.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:19:38.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HabitacionesAplicacionPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\HabitacionesAplicacionPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios2\\HabitacionesAplicacionPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\HabitacionesAplicacionPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios2\\HabitacionesAplicacionPrueba.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:18:32.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Script.sql ",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Script.sql",
+              "RelativeDocumentMoniker": "lib_repositorios\\Script.sql",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Script.sql",
+              "RelativeToolTip": "lib_repositorios\\Script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-18T04:58:42.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EmpleadosAplicacionPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\EmpleadosAplicacionPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios2\\EmpleadosAplicacionPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\EmpleadosAplicacionPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios2\\EmpleadosAplicacionPrueba.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T04:53:46.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmpleadosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\EmpleadosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\EmpleadosAplicacion.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Implementaciones\\EmpleadosAplicacion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\EmpleadosAplicacion.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T04:53:23.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ConsumosAplicacionPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\ConsumosAplicacionPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios2\\ConsumosAplicacionPrueba.cs",
+              "ToolTip": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Repositorios2\\ConsumosAplicacionPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios2\\ConsumosAplicacionPrueba.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T04:50:28.633Z",
+              "EditorCaption": ""
             }
           ]
         }

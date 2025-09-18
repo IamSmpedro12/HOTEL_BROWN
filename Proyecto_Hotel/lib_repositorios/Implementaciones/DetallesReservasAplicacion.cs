@@ -73,7 +73,8 @@ namespace lib_repositorios.Implementaciones
         public List<Detalles_Reservas> Listar()
         {
             return this.IConexion!.Detalles_Reservas!
-                .Include(d => d.Habitacion)
+                .Include(d => d._Habitacion) //  navegación real
+                .Include(d => d._Reserva)    //  navegación real
                 .Take(20)
                 .ToList();
         }
