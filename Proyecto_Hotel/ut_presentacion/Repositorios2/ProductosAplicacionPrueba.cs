@@ -1,8 +1,6 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Implementaciones;
 using lib_repositorios.Interfaces;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 using ut_presentacion.Nucleo;
 
 namespace Pruebas
@@ -38,7 +36,7 @@ namespace Pruebas
                 Descripcion = "Shampoo de cortesía para huéspedes",
                 Stock = 50,
                 Precio = 12000,
-                Proveedor = 1   // Debe existir un Proveedor con Id = 1
+                Proveedor = 1 
             };
 
             entidad = app!.Guardar(entidad);

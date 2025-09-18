@@ -1,8 +1,6 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Implementaciones;
 using lib_repositorios.Interfaces;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 using ut_presentacion.Nucleo;
 
 namespace Pruebas
@@ -34,7 +32,7 @@ namespace Pruebas
         {
             entidad = new Servicios()
             {
-                Nombre = "Spa_" + Guid.NewGuid().ToString("N").Substring(0, 5), // evitar duplicados
+                Nombre = "Spa_" + Guid.NewGuid().ToString("N").Substring(0, 5), 
                 Descripcion = "Servicio de spa y masajes relajantes",
                 Precio = 150000
             };

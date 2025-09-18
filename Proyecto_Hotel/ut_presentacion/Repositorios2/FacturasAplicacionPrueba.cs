@@ -1,8 +1,6 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Implementaciones;
 using lib_repositorios.Interfaces;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 using ut_presentacion.Nucleo;
 
 namespace Pruebas
@@ -35,7 +33,7 @@ namespace Pruebas
 
             entidad = new Facturas()
             {
-                Reserva = 1, // FK existente
+                Reserva = 1, 
                 Fecha_emision = DateTime.Now,
                 Total = 200.50m,
                 Metodo_pago = "Tarjeta"

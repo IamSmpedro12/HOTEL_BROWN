@@ -1,8 +1,6 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Implementaciones;
 using lib_repositorios.Interfaces;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 using ut_presentacion.Nucleo;
 
 namespace Pruebas
@@ -34,8 +32,8 @@ namespace Pruebas
         {
             entidad = new Habitaciones_Tipos()
             {
-                Habitacion = 1,   // Debe existir una Habitación con Id=1
-                Tipo = 2          // Debe existir un Tipo con Id=2
+                Habitacion = 1,  
+                Tipo = 2         
             };
 
             entidad = app!.Guardar(entidad);
@@ -46,8 +44,7 @@ namespace Pruebas
         {
             if (entidad == null) return false;
 
-            // Simulación de modificación: cambiar el tipo asociado
-            entidad.Tipo = 2; // Debe existir un Tipo con Id=2 en la BD
+            entidad.Tipo = 2; 
 
             var resultado = app!.Modificar(entidad);
             return resultado != null && resultado.Tipo == 2;

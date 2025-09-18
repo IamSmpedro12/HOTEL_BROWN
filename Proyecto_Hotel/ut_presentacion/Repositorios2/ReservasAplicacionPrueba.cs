@@ -1,8 +1,6 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Implementaciones;
 using lib_repositorios.Interfaces;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 using ut_presentacion.Nucleo;
 
 namespace Pruebas
@@ -34,10 +32,10 @@ namespace Pruebas
         {
             entidad = new Reservas()
             {
-                Huesped = 1, // FK existente en BD
+                Huesped = 1, 
                 Fecha_entrada = DateTime.Now.AddDays(1),
                 Fecha_salida = DateTime.Now.AddDays(3),
-                Estado = null // debe quedar en "Pendiente" por defecto
+                Estado = null 
             };
 
             entidad = app!.Guardar(entidad);

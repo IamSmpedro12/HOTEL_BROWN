@@ -1,9 +1,6 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Implementaciones;
 using lib_repositorios.Interfaces;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using System.Linq;
 using ut_presentacion.Nucleo;
 
 namespace Pruebas
@@ -38,7 +35,7 @@ namespace Pruebas
             {
                 Nombre = "Juan",
                 Apellido = "Pérez",
-                Email = $"juan{Guid.NewGuid()}@correo.com", // para evitar colisión
+                Email = $"juan{Guid.NewGuid()}@correo.com",
                 Telefono = "123456789",
                 Cargo = "Recepcionista",
                 Fecha_ingreso = DateTime.Now

@@ -1,8 +1,6 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Implementaciones;
 using lib_repositorios.Interfaces;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 using ut_presentacion.Nucleo;
 
 namespace Pruebas
@@ -34,8 +32,8 @@ namespace Pruebas
         {
             entidad = new Consumos()
             {
-                Producto = 1,          // Debe existir un Producto con Id = 1
-                Reserva = 1,           // Debe existir una Reserva con Id = 1
+                Producto = 1, 
+                Reserva = 1,  
                 Cantidad = 2,
                 Fecha = DateTime.Now
             };

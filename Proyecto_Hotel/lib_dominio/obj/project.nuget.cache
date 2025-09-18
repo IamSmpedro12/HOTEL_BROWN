@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LD2x0XiqS0k=",
+  "dgSpecHash": "I4sndF1WSBk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\smped\\OneDrive\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\lib_dominio.csproj",
+  "projectFilePath": "C:\\Users\\salak301\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_dominio\\lib_dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\smped\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+    "C:\\Users\\salak301\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
   ],
   "logs": []
 }

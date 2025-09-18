@@ -1,8 +1,6 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Implementaciones;
 using lib_repositorios.Interfaces;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 using ut_presentacion.Nucleo;
 
 namespace Pruebas
@@ -34,7 +32,7 @@ namespace Pruebas
         {
             entidad = new Mantenimientos()
             {
-                Habitacion = 1,                  // Debe existir una habitación con Id=1
+                Habitacion = 1,                 
                 Descripcion = "Cambio de lámparas",
                 Fecha = DateTime.Now,
                 Costo = 200000

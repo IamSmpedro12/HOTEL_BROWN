@@ -1,8 +1,6 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Implementaciones;
 using lib_repositorios.Interfaces;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 using ut_presentacion.Nucleo;
 
 namespace Pruebas
@@ -34,9 +32,9 @@ namespace Pruebas
         {
             entidad = new Reservas_Servicios()
             {
-                Reserva = 1,  // FK: debe existir una Reserva en BD con Id=1
-                Servicio = 1, // FK: debe existir un Servicio en BD con Id=1
-                Cantidad = 2  // valor válido (>0)
+                Reserva = 1, 
+                Servicio = 1, 
+                Cantidad = 2  
             };
 
             entidad = app!.Guardar(entidad);
@@ -47,7 +45,7 @@ namespace Pruebas
         {
             if (entidad == null) return false;
 
-            entidad.Cantidad = 5; // nuevo valor válido
+            entidad.Cantidad = 5; 
 
             var resultado = app!.Modificar(entidad);
             return resultado != null && resultado.Cantidad == 5;

@@ -1,8 +1,6 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Implementaciones;
 using lib_repositorios.Interfaces;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 using ut_presentacion.Nucleo;
 
 namespace Pruebas
@@ -35,8 +33,8 @@ namespace Pruebas
  
             entidad = new Empleados_Roles()
             {
-                Empleado = 4, // FK existente
-                Rol = 2       // FK existente
+                Empleado = 4, 
+                Rol = 2      
             };
 
             entidad = app!.Guardar(entidad);
@@ -47,8 +45,7 @@ namespace Pruebas
         {
             if (entidad == null) return false;
 
-            // cambiar el rol por otro existente
-            entidad.Rol = 2; //  Usa un Rol válido en tu BD
+            entidad.Rol = 2; 
             var resultado = app!.Modificar(entidad);
 
             return resultado != null && resultado.Rol == 2;

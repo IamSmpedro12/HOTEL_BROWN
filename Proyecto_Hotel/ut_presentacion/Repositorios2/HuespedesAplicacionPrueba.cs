@@ -1,8 +1,6 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Implementaciones;
 using lib_repositorios.Interfaces;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 using ut_presentacion.Nucleo;
 
 namespace Pruebas
@@ -36,9 +34,9 @@ namespace Pruebas
             {
                 Nombre = "Carlos",
                 Apellido = "Gómez",
-                Email = $"carlos{Guid.NewGuid()}@mail.com", // único para evitar duplicados
+                Email = $"carlos{Guid.NewGuid()}@mail.com", 
                 Telefono = "3001234567",
-                Documento = $"DOC{Guid.NewGuid()}", // único para evitar duplicados
+                Documento = $"DOC{Guid.NewGuid()}", 
                 Nacionalidad = "Colombiana",
                 Fecha_nacimiento = new DateTime(1990, 5, 20)
             };

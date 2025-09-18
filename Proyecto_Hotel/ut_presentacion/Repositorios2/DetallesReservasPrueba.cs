@@ -1,8 +1,6 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Implementaciones;
 using lib_repositorios.Interfaces;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 using ut_presentacion.Nucleo;
 
 namespace Pruebas
@@ -34,10 +32,10 @@ namespace Pruebas
         {
             entidad = new Detalles_Reservas()
             {
-                Reserva = 1,           // Debe existir una Reserva con Id=1
-                Habitacion = 1,        // Debe existir una Habitación con Id=1
-                Precio_noche = 120000, // Valor válido
-                Noches = 2             // Valor válido
+                Reserva = 1,           
+                Habitacion = 1,       
+                Precio_noche = 120000, 
+                Noches = 2             
             };
 
             entidad = app!.Guardar(entidad);
