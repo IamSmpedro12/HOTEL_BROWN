@@ -46,7 +46,7 @@ namespace ut_presentacion.Repositorios
 
         public bool Modificar()
         {
-            this.entidad!.Email = "prueba@gmail.com";
+            this.entidad!.Email = "test@gmail.com";
 
             var entry = this.iConexion!.Entry<Proveedores>(this.entidad);
             entry.State = EntityState.Modified;

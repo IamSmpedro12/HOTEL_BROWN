@@ -46,7 +46,7 @@ namespace ut_presentacion.Repositorios
 
         public bool Modificar()
         {
-            this.entidad!.Tipo = 6;
+            this.entidad!.Tipo = 9;
 
             var entry = this.iConexion!.Entry<Habitaciones_Tipos>(this.entidad);
             entry.State = EntityState.Modified;
