@@ -1,57 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\salak401\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\salak401\\desktop\\hotel_brown\\proyecto_hotel\\ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\salak401\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\salak401\\desktop\\hotel_brown\\proyecto_hotel\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{93820044-6B58-422C-81A0-E61A077985E0}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Script.sql ",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Script.sql",
-              "RelativeDocumentMoniker": "lib_repositorios\\Script.sql",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\lib_repositorios\\Script.sql",
-              "RelativeToolTip": "lib_repositorios\\Script.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-09-17T21:43:33.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EntidadesNucleo.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
-              "RelativeDocumentMoniker": "ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\HOTEL_BROWN\\Proyecto_Hotel\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
-              "RelativeToolTip": "ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA4wJcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T21:37:06.554Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
