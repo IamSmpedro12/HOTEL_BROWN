@@ -30,5 +30,8 @@ namespace lib_repositorios.Implementaciones
         public DbSet<Proveedores>? Proveedores { get; set; }
         public DbSet<Productos>? Productos { get; set; }
         public DbSet<Consumos>? Consumos { get; set; }
+        public DbSet<Auditorías>? Auditorías { get; set; }
+        public DbSet<Permisos>? Permisos { get; set; }
+        public DbSet<Empleados_Permisos>? Empleados_Permisos { get; set; }
     }
 }

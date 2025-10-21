@@ -18,7 +18,7 @@ namespace lib_repositorios.Implementaciones
             if (this.IConexion!.Roles!.Any(r => r.Nombre == entidad.Nombre))
                 throw new Exception("El rol ya existe");
 
-            this.IConexion.Roles.Add(entidad);
+            this.IConexion!.Roles!.Add(entidad);
             this.IConexion.SaveChanges();
             return entidad;
         }

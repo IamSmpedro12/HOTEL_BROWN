@@ -24,7 +24,9 @@ namespace lib_repositorios.Interfaces
         DbSet<Proveedores>? Proveedores { get; set; }
         DbSet<Productos>? Productos { get; set; }
         DbSet<Consumos>? Consumos { get; set; }
-
+        DbSet<Auditorías>? Auditorías { get; set; }
+        DbSet<Permisos>? Permisos { get; set; }
+        DbSet<Empleados_Permisos>? Empleados_Permisos { get; set; }
         EntityEntry<T> Entry<T>(T entity) where T : class;
         int SaveChanges();
     }
