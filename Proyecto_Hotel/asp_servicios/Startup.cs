@@ -47,6 +47,7 @@ namespace asp_servicios
             services.AddScoped<ITiposHabitacionesAplicacion, TiposHabitacionesAplicacion>();
             //services.AddScoped<TokenAplicacion, TokenAplicacion>();
             // Controladores
+            services.AddScoped<TokenController, TokenController>();
             services.AddScoped<ConsumosController, ConsumosController>();
             services.AddScoped<Detalles_ReservasController, Detalles_ReservasController>();
             services.AddScoped<FacturasController, FacturasController>();
@@ -70,16 +71,16 @@ namespace asp_servicios
 
         public void Configure(WebApplication app, IWebHostEnvironment env)
         {
-            if (env.IsDevelopment())
-            {
-                //app.UseSwagger();
-                //app.UseSwaggerUI();
-            }
+            //if (env.IsDevelopment())
+            //{
+            //    //app.UseSwagger();
+            //    //app.UseSwaggerUI();
+            //}
             app.UseHttpsRedirection();
             app.UseAuthorization();
             app.MapControllers();
             app.Run();
-            app.UseRouting();
+            //app.UseRouting();
             app.UseCors();
         }
     }

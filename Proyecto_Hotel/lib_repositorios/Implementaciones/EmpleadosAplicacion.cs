@@ -18,7 +18,7 @@ namespace lib_repositorios.Implementaciones
             if (this.IConexion!.Empleados!.Any(e => e.Email == entidad.Email))
                 throw new Exception("El email ya está registrado");
 
-            this.IConexion.Empleados.Add(entidad);
+            this.IConexion.Empleados!.Add(entidad);
             this.IConexion.SaveChanges();
             return entidad;
         }

@@ -19,7 +19,7 @@ namespace lib_repositorios.Implementaciones
                 .Any(er => er.Empleado == entidad.Empleado && er.Rol == entidad.Rol))
                 throw new Exception("El empleado ya tiene asignado este rol");
 
-            this.IConexion.Empleados_Roles.Add(entidad);
+            this.IConexion.Empleados_Roles!.Add(entidad);
             this.IConexion.SaveChanges();
             return entidad;
         }

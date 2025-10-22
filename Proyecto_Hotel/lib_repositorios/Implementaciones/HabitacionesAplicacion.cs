@@ -20,7 +20,7 @@ namespace lib_repositorios.Implementaciones
                 .Any(h => h.Numero == entidad.Numero && h.Piso == entidad.Piso))
                 throw new Exception("Ya existe una habitación con ese número en el mismo piso");
 
-            this.IConexion.Habitaciones.Add(entidad);
+            this.IConexion.Habitaciones!.Add(entidad);
             this.IConexion.SaveChanges();
             return entidad;
         }

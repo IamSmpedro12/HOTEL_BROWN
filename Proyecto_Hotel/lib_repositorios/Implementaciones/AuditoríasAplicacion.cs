@@ -35,7 +35,7 @@ namespace lib_repositorios.Implementaciones
         public Auditorías? Modificar(Auditorías? entidad)
         {
             if (entidad == null) throw new Exception("Falta información");
-            if (entidad.Id == 0) throw new Exception("Auditoría no encontrado");
+            if (entidad.Id == 0) throw new Exception("Auditoría no encontrada");
 
             var entry = this.IConexion!.Entry(entidad);
             entry.State = EntityState.Modified;
@@ -46,7 +46,7 @@ namespace lib_repositorios.Implementaciones
         public Auditorías? Borrar(Auditorías? entidad)
         {
             if (entidad == null) throw new Exception("Falta información");
-            if (entidad.Id == 0) throw new Exception("Auditoría no encontrado");
+            if (entidad.Id == 0) throw new Exception("Auditoría no encontrada");
 
             this.IConexion!.Auditorías!.Remove(entidad);
             this.IConexion.SaveChanges();

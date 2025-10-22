@@ -19,7 +19,7 @@ namespace lib_repositorios.Implementaciones
                 .Any(ht => ht.Habitacion == entidad.Habitacion && ht.Tipo == entidad.Tipo))
                 throw new Exception("La habitación ya tiene este tipo asociado");
 
-            this.IConexion.Habitaciones_Tipos.Add(entidad);
+            this.IConexion.Habitaciones_Tipos!.Add(entidad);
             this.IConexion.SaveChanges();
             return entidad;
         }
