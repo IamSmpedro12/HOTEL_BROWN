@@ -13,20 +13,26 @@ namespace asp_servicios.Controllers
     {
         private IConsumosAplicacion? iAplicacion = null;
         //private TokenAplicacion? iAplicacionToken = null;
-
-        public ConsumosController(IConsumosAplicacion? iAplicacion/*, TokenAplicacion iAplicacionToken*/)
+        private IAuditoríasAplicacion? iAuditoriasAplicacion = null;
+        public ConsumosController(IConsumosAplicacion? iAplicacion, IAuditoríasAplicacion? iAuditoriasAplicacion/*, TokenAplicacion iAplicacionToken*/)
         {
             this.iAplicacion = iAplicacion;
+            this.iAuditoriasAplicacion = iAuditoriasAplicacion;
             //this.iAplicacionToken = iAplicacionToken;
         }
 
         private Dictionary<string, object> ObtenerDatos()
         {
+            // Nota: Esta forma de leer el cuerpo del Request de manera síncrona puede
+            // tener implicaciones de rendimiento en un entorno real. Se mantiene
+            // por consistencia con el código original.
             var datos = new StreamReader(Request.Body).ReadToEnd().ToString();
             if (string.IsNullOrEmpty(datos))
                 datos = "{}";
             return JsonConversor.ConvertirAObjeto(datos);
         }
+
+        // OPERACIONES CRUD ESTÁNDAR (Mantenidas y adaptadas a Consumos)
 
         [HttpPost]
         public string Listar()
@@ -56,35 +62,6 @@ namespace asp_servicios.Controllers
         }
 
         [HttpPost]
-        public string PorTipo()
-        {
-            var respuesta = new Dictionary<string, object>();
-            try
-            {
-                var datos = ObtenerDatos();
-                /*if (!tokenController!.Validate(datos))
-                {
-                    respuesta["Error"] = "lbNoAutenticacion";
-                    return JsonConversor.ConvertirAString(respuesta);
-                }
-                var entidad = JsonConversor.ConvertirAObjeto<Consumos>(
-                JsonConversor.ConvertirAString(datos["Entidad"]));
-                this.iAplicacion!.Configurar(Configuracion.ObtenerValor("StringConexion"));
-
-                respuesta["Entidades"] = this.iAplicacion!.PorTipo(entidad);
-                respuesta["Respuesta"] = "OK";
-                respuesta["Fecha"] = DateTime.Now.ToString();
-                return JsonConversor.ConvertirAString(respuesta);
-            }
-            catch (Exception ex)
-            {
-                respuesta["Error"] = ex.Message.ToString();
-                respuesta["Respuesta"] = "Error";
-                return JsonConversor.ConvertirAString(respuesta);
-            }
-        }
-
-        [HttpPost]
         public string Guardar()
         {
             var respuesta = new Dictionary<string, object>();
@@ -101,6 +78,21 @@ namespace asp_servicios.Controllers
                 this.iAplicacion!.Configurar(Configuracion.ObtenerValor("StringConexion"));
 
                 entidad = this.iAplicacion!.Guardar(entidad);
+
+                //var registroAuditoria = new Auditorías
+                //{
+                //    // Empleado: Asume que 0 es un valor temporal si no tienes el ID del usuario actual.
+                //    Empleado = 0,
+                //    Accion = "CREAR",
+                //    Descripcion = "Nuevo empleado agregado al sistema.",
+                //    Previo = null,
+                //    Nuevo = JsonConversor.ConvertirAString(entidad!),
+                //    Fecha = DateTime.Now,
+                //    Tabla = "Consumos"
+                //};
+
+                //this.iAuditoriasAplicacion!.Guardar(registroAuditoria);
+
                 respuesta["Entidad"] = entidad!;
                 respuesta["Respuesta"] = "OK";
                 respuesta["Fecha"] = DateTime.Now.ToString();

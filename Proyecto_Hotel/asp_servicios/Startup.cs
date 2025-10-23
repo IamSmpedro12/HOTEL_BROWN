@@ -61,7 +61,7 @@ namespace asp_servicios
             services.AddScoped<PermisosController, PermisosController>();
             services.AddScoped<ProductosController, ProductosController>();
             services.AddScoped<ProveedoresController, ProveedoresController>(); 
-            services.AddScoped<Reservas_ServicioController, Reservas_ServicioController>();
+            services.AddScoped<Reservas_ServiciosController, Reservas_ServiciosController>();
             services.AddScoped<ReservasController, ReservasController>();
             services.AddScoped<RolesController, RolesController>();
             services.AddScoped<ServiciosController, ServiciosController>();
