@@ -11,18 +11,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Nucleo", "3. Nucleo", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Pruebas Unitarias", "4. Pruebas Unitarias", "{6E49D45E-0AAE-4946-BA98-BAB8436C031E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib_dominio", "lib_dominio\lib_dominio.csproj", "{4CA00005-AC31-4AF7-A265-05F4F440323A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lib_dominio", "lib_dominio\lib_dominio.csproj", "{4CA00005-AC31-4AF7-A265-05F4F440323A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib_repositorios", "lib_repositorios\lib_repositorios.csproj", "{93820044-6B58-422C-81A0-E61A077985E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lib_repositorios", "lib_repositorios\lib_repositorios.csproj", "{93820044-6B58-422C-81A0-E61A077985E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ut_presentacion", "ut_presentacion\ut_presentacion.csproj", "{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ut_presentacion", "ut_presentacion\ut_presentacion.csproj", "{BE5328F1-B1E2-424F-9C54-9A0C6442AC75}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}"
 	ProjectSection(SolutionItems) = preProject
 		secrets.json = secrets.json
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp_servicios", "asp_servicios\asp_servicios.csproj", "{65246538-100D-4BC8-BF9C-CDE1957F628A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "asp_servicios", "asp_servicios\asp_servicios.csproj", "{65246538-100D-4BC8-BF9C-CDE1957F628A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp_presentacion", "asp_presentacion\asp_presentacion.csproj", "{D37E6DA2-5B93-4E9B-AB44-27F747D5690B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib_presentaciones", "lib_presentaciones\lib_presentaciones.csproj", "{D89F2810-98C1-4E4F-B38E-C88C32843452}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -46,6 +50,14 @@ Global
 		{65246538-100D-4BC8-BF9C-CDE1957F628A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65246538-100D-4BC8-BF9C-CDE1957F628A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65246538-100D-4BC8-BF9C-CDE1957F628A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37E6DA2-5B93-4E9B-AB44-27F747D5690B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37E6DA2-5B93-4E9B-AB44-27F747D5690B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37E6DA2-5B93-4E9B-AB44-27F747D5690B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37E6DA2-5B93-4E9B-AB44-27F747D5690B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89F2810-98C1-4E4F-B38E-C88C32843452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89F2810-98C1-4E4F-B38E-C88C32843452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89F2810-98C1-4E4F-B38E-C88C32843452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89F2810-98C1-4E4F-B38E-C88C32843452}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +67,8 @@ Global
 		{93820044-6B58-422C-81A0-E61A077985E0} = {0A5D00C9-7CAF-4137-A60E-68F4EACA208A}
 		{BE5328F1-B1E2-424F-9C54-9A0C6442AC75} = {6E49D45E-0AAE-4946-BA98-BAB8436C031E}
 		{65246538-100D-4BC8-BF9C-CDE1957F628A} = {0A5D00C9-7CAF-4137-A60E-68F4EACA208A}
+		{D37E6DA2-5B93-4E9B-AB44-27F747D5690B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{D89F2810-98C1-4E4F-B38E-C88C32843452} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {72086453-5C01-4EF0-B5F9-841D97CD88E0}

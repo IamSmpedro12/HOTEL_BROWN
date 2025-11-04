@@ -22,7 +22,7 @@ namespace lib_repositorios.Implementaciones
         {
             if (entidad == null) throw new Exception("Falta información");
             if (entidad.Id != 0) throw new Exception("Auditoría ya existe");
-            if (string.IsNullOrWhiteSpace(entidad.Descripcion))
+            if (string.IsNullOrWhiteSpace(entidad.Cambios))
                 throw new Exception("Debe haber una descripción del cambio");
             if (string.IsNullOrWhiteSpace(entidad.Accion))
                 throw new Exception("Debe indicar que accion fue realizada");
